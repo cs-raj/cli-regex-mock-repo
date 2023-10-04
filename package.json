@@ -1,6 +1,6 @@
 {
   "name": "cli-regex-rp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "HTTP web server that listens to Contentstack webhooks. This is part of Contentstack DataSync",
   "main": "./dist",
   "types": "./typings",

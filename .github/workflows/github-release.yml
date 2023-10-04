@@ -14,10 +14,6 @@ jobs:
           node-version: "18.x"
       - run: npm install
 
-      - name: get-package-details
-        id: package
-        uses: codex-team/action-nodejs-package-info@v1.1
-
       - name: install npm packall
         run: npm install npm-pack-all
 
